@@ -76,7 +76,7 @@ The project is designed as a **portfolio-ready analysis**, emphasizing clarity, 
 
 **Insight:** Temperature shows a clear seasonal pattern, rising toward mid-year and declining afterward.
 
-![Temperature Trend]([images/temperature_trend.png](https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/temperature%20trend.png?raw=true))
+![Temperature Trend](https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/temperature%20trend.png?raw=true))
 
 ---
 
