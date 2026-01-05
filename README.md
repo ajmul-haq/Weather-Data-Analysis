@@ -76,14 +76,15 @@ The analysis includes the following visualizations and analytical questions:
 
 5. **Temperature Trend Over Time**
    → Are there observable seasonal patterns?
+   ![image alt](https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/temperature%20trend.png?raw=true)
 
-6. **Air Pressure Trend Over Time**
+7. **Air Pressure Trend Over Time**
    → Is air pressure generally stable or volatile?
 
-7. **Scatter Plot: Wind Speed vs Visibility**
+8. **Scatter Plot: Wind Speed vs Visibility**
    → Does wind speed influence visibility?
 
-8. **Mean Visibility by Weather Condition**
+9. **Mean Visibility by Weather Condition**
    → Which weather conditions reduce visibility the most?
 
 ---
