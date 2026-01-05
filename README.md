@@ -84,7 +84,7 @@ The project is designed as a **portfolio-ready analysis**, emphasizing clarity, 
 
 **Insight:** Visibility remains high across most wind speeds, showing no strong linear relationship.
 
-![Wind vs Visibility]()
+![Wind vs Visibility](https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/Wind%20Speed%20vs%20Visibility.png?raw=true)
 
 ---
 
