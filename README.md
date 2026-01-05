@@ -69,20 +69,21 @@ The analysis includes the following visualizations and analytical questions:
 
 2. **Wind Speed Distribution (Histogram & Boxplot)**
    → What is the typical wind speed range? Are there extreme values?
+   https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/%20wind%20speed%20distribution.png?raw=true
 
-3. **Temperature Distribution & Boxplot**
+4. **Temperature Distribution & Boxplot**
    → How is temperature distributed and are there outliers?
 
-4. **Temperature Trend Over Time**
+5. **Temperature Trend Over Time**
    → Are there observable seasonal patterns?
 
-5. **Air Pressure Trend Over Time**
+6. **Air Pressure Trend Over Time**
    → Is air pressure generally stable or volatile?
 
-6. **Scatter Plot: Wind Speed vs Visibility**
+7. **Scatter Plot: Wind Speed vs Visibility**
    → Does wind speed influence visibility?
 
-7. **Mean Visibility by Weather Condition**
+8. **Mean Visibility by Weather Condition**
    → Which weather conditions reduce visibility the most?
 
 ---
