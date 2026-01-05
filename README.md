@@ -69,7 +69,7 @@ The analysis includes the following visualizations and analytical questions:
 
 2. **Wind Speed Distribution (Histogram & Boxplot)**
    → What is the typical wind speed range? Are there extreme values?
-   https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/%20wind%20speed%20distribution.png?raw=true
+   ![image alt](https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/%20wind%20speed%20distribution.png?raw=true)
 
 4. **Temperature Distribution & Boxplot**
    → How is temperature distributed and are there outliers?
