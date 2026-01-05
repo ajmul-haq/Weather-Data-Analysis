@@ -60,7 +60,7 @@ The project is designed as a **portfolio-ready analysis**, emphasizing clarity, 
 
 **Insight:** The dataset is dominated by clear and cloudy conditions, indicating generally stable weather throughout the year.
 
-![Top Weather Conditions](images/weather_conditions_top10.png)
+![Top Weather Conditions](https://github.com/ajmul-haq/Weather-Data-Analysis/blob/main/Images/top%20weather%20conditions.png?raw=true)
 
 ---
 
